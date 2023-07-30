@@ -13,7 +13,7 @@
             <div class="flex flex-col items-center px-4 lg:flex-row lg:px-0">
                 <div class="w-full mb-8 lg:w-1/2 lg:mb-0 lg:mr-16">
                     <h1 class="text-3xl font-bold text-gray-900 leading-tight mb-3 lg:text-6xl">
-                        The Laravel Community Portal
+                        The meti.pro Community Portal
                     </h1>
 
                     <div class="mb-5">
