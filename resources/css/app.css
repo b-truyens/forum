@@ -17,7 +17,7 @@
 @import url('https://rsms.me/inter/inter.css');
 
 .number-block {
-    box-shadow: 20px 0 40px 5px #e6f6f3 inset, -20px 0 10px 5px #e6f6f3 inset;
+    box-shadow: 20px 0 40px 5px #1552ad inset, -20px 0 10px 5px #4e6ac4 inset;
 }
 
 a > span > em {
@@ -39,7 +39,7 @@ pre .hljs {
 }
 
 .forum-content code {
-    background: #f8f8f8;
+    background: #4a6372;
     color: #333;
 }
 
