@@ -18,7 +18,7 @@
 
                     <div class="mb-5">
                         <p class="text-gray-800 text-lg leading-8 font-medium">
-                            The Laravel portal for problem solving, knowledge sharing and community building.
+                            The portal for problem solving, knowledge sharing and community building.
                             Join <x-accent-text>{{ $totalUsers }}</x-accent-text> other artisans.
                         </p>
                     </div>

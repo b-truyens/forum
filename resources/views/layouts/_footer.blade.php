@@ -10,14 +10,14 @@
                     <img loading="lazy" src="{{ asset('images/laravelio-logo-white.svg') }}" alt="{{ config('app.name') }}" class="block mb-5" />
 
                     <p class="text-gray-100 lg:leading-loose">
-                        The Laravel portal for problem solving, knowledge sharing and community building.
+                        The portal for problem solving, knowledge sharing and community building.
                     </p>
                 </div>
 
                 <div class="lg:w-full lg:flex lg:justify-between">
                     <div class="grow mb-6 lg:mb-0">
                         <p class="text-lg mb-4 lg:mb-6">
-                            Laravel.io
+                            meti.pro
                         </p>
 
                         <div class="flex flex-wrap lg:flex-col lg:flex-no-wrap">
@@ -28,10 +28,6 @@
                             <a href="{{ route('articles') }}" class="w-1/2 text-gray-400 mb-4 hover:text-gray-200 lg:mb-6">
                                 Articles
                             </a>
-
-                            <a href="https://paste.laravel.io" class="w-1/2 text-gray-400 mb-4 hover:text-gray-200 lg:mb-6">
-                                Pastebin
-                            </a>
                         </div>
                     </div>
 
@@ -41,19 +37,19 @@
                         </p>
 
                         <div class="flex flex-wrap lg:flex-col lg:flex-no-wrap">
-                            <a href="https://twitter.com/laravelio" class="w-1/2 text-gray-400 mb-4 hover:text-gray-200 lg:mb-6">
+                            <a href="https://twitter.com/meti_pro" class="w-1/2 text-gray-400 mb-4 hover:text-gray-200 lg:mb-6">
                                 <x-icon-twitter class="text-white w-4 h-4 inline mr-3.5"/>
                                 Twitter
                             </a>
 
-                            <a href="https://github.com/laravelio" class="w-1/2 text-gray-400 mb-4 hover:text-gray-200 lg:mb-6">
+                            <a href="https://github.com/b-truyens" class="w-1/2 text-gray-400 mb-4 hover:text-gray-200 lg:mb-6">
                                 <x-icon-github class="text-white w-4 h-4 inline mr-3.5"/>
                                 GitHub
                             </a>
                         </div>
                     </div>
 
-                    <div class="grow">
+                    {{-- <div class="grow">
                         <p class="text-lg mb-6">
                             The community
                         </p>
@@ -83,7 +79,7 @@
                                 </a>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
 
