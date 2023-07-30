@@ -85,7 +85,7 @@
 
             <div class="text-gray-100 flex flex-col lg:flex-row">
                 <span class="mb-5 lg:mb-0 lg:mr-5">
-                    &copy; {{ date('Y') }} Laravel.io - All rights reserved.
+                    &copy; {{ date('Y') }} meti.pro - All rights reserved.
                 </span>
 
                 <div class="flex flex-wrap lg:block">
@@ -95,7 +95,7 @@
                     <a href="{{ route('privacy') }}" class="w-1/2 mb-4 hover:text-gray-200 lg:w-full lg:mb-0 lg:mr-8">
                         Privacy policy
                     </a>
-                    <a href="https://github.com/sponsors/laravelio" class="w-1/2 hover:text-gray-200 lg:w-full lg:mb-0">
+                    <a href="https://github.com/b-truyens" class="w-1/2 hover:text-gray-200 lg:w-full lg:mb-0">
                         Advertise
                     </a>
                 </div>

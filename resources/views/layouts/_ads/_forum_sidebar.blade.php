@@ -1,4 +1,4 @@
-@php($banner = Illuminate\Support\Arr::random(config('lio.ads')))
+{{-- @php($banner = Illuminate\Support\Arr::random(config('lio.ads')))
 
 <?php
     $banner = array_key_exists('random', $banner) ? Illuminate\Support\Arr::random($banner['random']) : $banner;
@@ -11,4 +11,4 @@
 
 <x-ads.cta class="mt-4 md:mt-6">
     Your banner here too?
-</x-ads.cta>
+</x-ads.cta> --}}

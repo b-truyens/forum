@@ -44,21 +44,21 @@
                     </div>
                 </div>
 
-                <div class="lg:w-1/2">
+                {{-- <div class="lg:w-1/2">
                     <x-community-members :members="$communityMembers" />
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>
     <!-- /Head section -->
 
-    <!-- Banner ad -->
+    {{-- <!-- Banner ad -->
     <section class="container mx-auto mt-12 lg:mt-24 lg:px-16">
         <div class="px-4 lg:px-10">
             @include('layouts._ads._footer')
         </div>
     </section>
-    <!-- /Banner ad -->
+    <!-- /Banner ad --> --}}
 
     <!-- Popular articles -->
     <section class="mt-12 container mx-auto px-4 lg:mt-24 lg:px-16">
@@ -89,10 +89,10 @@
                     <div class="w-full px-4 lg:w-1/2 lg:px-0">
                         <div class="mb-8">
                             <h2 class="text-3xl lg:text-4xl font-bold mb-3">
-                                Looking for a solution?
+                                Looking for a topic?
                             </h2>
                             <p class="text-lg lg:text-xl opacity-80">
-                                Search the forum for the answer to your question
+                                Search the forum here; good luck!
                             </p>
                         </div>
 
@@ -157,10 +157,10 @@
     </section>
     <!-- /Help others -->
 
-    <!-- Laravel.io in numbers -->
+    <!-- meti.pro in numbers -->
     <section class="mt-12 container mx-auto px-4 lg:mt-40 lg:px-16">
         <h2 class="text-4xl leading-tight font-bold text-center text-gray-900 mb-6 lg:mb-12">
-            Laravel.io in numbers
+            meti.pro in numbers
         </h2>
 
         <div class="flex flex-col lg:mb-10 lg:flex-row lg:gap-x-8">
@@ -177,5 +177,5 @@
             </div>
         </div>
     </section>
-    <!-- /Laravel.io in numbers -->
+    <!-- /meti.pro in numbers -->
 @endsection
